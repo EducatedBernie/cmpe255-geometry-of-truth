@@ -16,9 +16,9 @@ Topic approval: this paper is Bernie's approved topic in the instructor's select
 
 | Artifact | Where |
 |---|---|
-| Medium article | PENDING — link added when published |
-| Slide deck (SlideShare) | PENDING — link added when published |
-| Narrated video (10–15 min, slides + voiceover) | `geometry_of_truth_video.mp4` in this repo (added when rendered) |
+| Medium article | [A Straight Line Between True and False (Medium)](https://medium.com/@berniem4483/a-straight-line-between-true-and-false-what-llama-2s-geometry-reveals-about-machine-truth-231ee003b239) |
+| Slide deck (SlideShare) | SlideShare uploads were down site-wide on Nov 10, 2026 ("Uploads are temporarily unavailable"), so the deck is hosted in this repo meanwhile: [PDF](geometry_of_truth_deck.pdf) · [PPTX](geometry_of_truth_deck.pptx). A SlideShare link will replace this note once their upload service is back. |
+| Narrated video (11:51, slides + voiceover) | [Watch on YouTube (Unlisted)](https://www.youtube.com/watch?v=t5d-3qVSoVc) |
 | Slide deck files | `geometry_of_truth_deck.pptx` / `geometry_of_truth_deck.pdf` in this repo |
 | Article source | `article_draft.md` |
 | Video narration script | `video_script.md` |
